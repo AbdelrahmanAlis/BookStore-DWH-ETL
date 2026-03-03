@@ -15,7 +15,7 @@ The project follows a **Star Schema** architecture with a specialized **Bridge T
 * **Data Cleaning**: Implemented logic to handle missing data (e.g., city imputation via ZipCode) and Unknown members (SK=0).
 
 ### Data Warehouse Schema
-![DWH Schema]("G:\DEPI\projects\Book_DWH\docs\diagrams\dwh_schema.png") 
+![DWH Schema]("docs/diagrams/dwh_schema.png") 
 
 
 
