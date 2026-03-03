@@ -5,6 +5,11 @@ A comprehensive End-to-End Data Engineering project that transforms an Operation
 ## 🚀 Project Overview
 This project demonstrates the transition from a normalized bookstore database to a specialized Data Warehouse (DWH). It handles complex data relationships and ensures data integrity for business intelligence reporting.
 
+## 🚀 Data Pipeline Architecture
+![Data Pipeline](docs/diagrams/pipeline.png)
+
+The ETL process extracts data from the source SQL Server, performs transformations using Python (Pandas), and loads the final Star Schema into the Data Warehouse.
+
 ## 🏗️ Architecture & Design
 The project follows a **Star Schema** architecture with a specialized **Bridge Table** to handle many-to-many relationships.
 
