@@ -1,0 +1,10 @@
+# Data Manipulation
+pandas
+numpy
+
+# Database Connectivity
+pyodbc
+
+# Jupyter Notebook Environment
+ipykernel
+notebook
