@@ -92,3 +92,4 @@ The data is transformed into a **Dimensional Model (Star Schema)** optimized for
 2. Install dependencies:  
    ```bash
    pip install -r requirements.txt
+3.Run the pipeline.ipynb notebook to execute the ETL process.
