@@ -31,7 +31,7 @@ To bridge the gap between operational efficiency and analytical power, this proj
 The original data resides in a highly normalized relational database (3rd Normal Form).  
 This structure is optimized for transactional integrity but complex for direct analytical queries.
 
-![OLTP Schema](docs/diagrams/oltp_schema.png)
+![OLTP Schema](docs/diagrams/OLTP_schema.png)
 
 ---
 
