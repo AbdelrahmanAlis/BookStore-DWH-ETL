@@ -132,7 +132,7 @@ insert into Dim_Customer
 (customer_sk, customer_ID, full_name, city, state, zip_code)
 VALUES
 (0, 0, 'Unknown', 'Unknown', 'Unknown', 'Unknown');
-SET IDENTITY_INSERT Dim_Customer oFF;
+set identity_insert Dim_Customer oFF;
 
 
 set identity_insert Dim_Book ON;
@@ -140,7 +140,7 @@ insert into Dim_Book
 (book_sk,book_id,title ,category_name,price)
 VALUES
 (0, 0, 'Unknown', 'Unknown', 0);
-SET IDENTITY_INSERT Dim_Book oFF;
+set identity_insert Dim_Book oFF;
 
 
 select * from dim_customer
